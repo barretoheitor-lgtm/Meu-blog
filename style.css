@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Hand:wght@400..700&family=Skranji:wght@400;700&display=swap');
+
+
+:root{
+    --preto: #000000;
+    --bege: #e2b258;
+    --branco:#ffffff;
+    --vermelho:#660c0c;
+    --texto: "Edu VIC WA NT Hand", cursive;
+    --titulo: "Skranji", system-ui;
+}
+
+body{
+    background-color: var(--bege);
+    font-family: var(--titulo);
+}
